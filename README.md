@@ -43,4 +43,4 @@ Easily save privacy policies for future reference.
 
 
 ## Author
-- My Portfolio - [Elian Contreras](https://elian-contreras.vercel.app)
+- My Portfolio - [Elian Contreras](https://elian-contreras.netlify.app/)
